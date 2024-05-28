@@ -5,7 +5,7 @@
 #Install keepassxc
 brew install keepassxc
 
-echo "Copy the keepassxc database securely to this workstation. Press enter when done."
+echo "\n\nCopy the keepassxc database securely to this workstation. Press enter when done."
 read
 echo """
    1. Open the database, search for 'Primary SSH Key', and double click the matching entry.
